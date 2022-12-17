@@ -1,7 +1,5 @@
 # Sorting-Algorithms-Project
 
-# Sortari
-
 Proiectul contine:
 - fisier cu sursa codului (python)
 - fisier cu cateva teste (mai multe au fost rulate in prezentare)
